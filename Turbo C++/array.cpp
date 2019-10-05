@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream.h>
 //for printing and reading stuff
 #include <conio.h>  
 //for clearing and keeping output
