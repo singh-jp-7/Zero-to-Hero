@@ -3,11 +3,11 @@
 
 void main()
 {
-	int a, b, c;
+	int a, b;
 	cout <<"Enter two integers to add\n";
 	cin >> a >> b;
-	c = a + b;
+	
 
-	cout <<"Sum of the numbers: " << c << endl;
+	cout <<"Sum of the numbers: " << a + b << endl;
 	return 0;
 }
